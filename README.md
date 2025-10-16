@@ -1,2 +1,2 @@
-# solar-calculator-2
+# solar-calculator- SMARTPHONE
 Calcolatore impianto fotovoltaico
